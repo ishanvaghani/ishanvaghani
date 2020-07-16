@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on Android Development.
 - 🌱 I’m currently learning Kotlin, Flutter.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-vaghani/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-vaghani/), [Facebook](https://www.facebook.com/ishanvaghani0)
 -->
